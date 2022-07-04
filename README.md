@@ -27,7 +27,7 @@ Purpose
 
 Pre-requisites
 
-- Google Colab
+- Jupyter Notebook ou Google Colab
 - Tableau Software
 
 Installation
