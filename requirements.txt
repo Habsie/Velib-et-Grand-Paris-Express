@@ -1,5 +1,4 @@
 jupyter
-drive
 pandas
 matplotlib
 plotly
